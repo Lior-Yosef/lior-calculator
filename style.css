@@ -1,0 +1,57 @@
+body {
+    background-image: url("https://cdn.pixabay.com/photo/2016/07/29/21/42/school-1555910_1280.png");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative; 
+    padding: 0%;
+  }
+h1{
+    text-align: center;
+    
+}
+
+#input{
+    width: 300px;
+    height: 30px;
+    text-align: center;
+    font-family: 'Gemunu Libre', sans-serif;
+
+}
+
+#Calculator{
+    text-align: center;
+}
+
+
+
+.numbers{
+    font-family: 'Gemunu Libre', sans-serif;
+    width: 100px;
+    height: 50px;
+    margin: 1px;
+}
+
+.operator{
+    width: 100px;
+    height: 50px;
+    margin: 1px;
+    background-color: chocolate;
+
+}
+
+#Ac{
+    width: 205px;
+    height: 50px;
+    background-color: rgba(165, 42, 42, 0.712);
+    margin: 1px;
+
+}
+
+#eq{
+    width: 100px;
+    height: 50px;
+    background-color: chocolate;
+
+}
